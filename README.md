@@ -1,12 +1,10 @@
-### Merhaba! Ben Muhammed Ali Ezgin 👋
+### Merhaba 👋
 
-Bilecik Şeyh Edebali Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Makine öğrenmesi, veri bilimi ve full-stack web geliştirme alanlarında projeler geliştiriyorum.
-
-### 🛠️ Kullandığım Teknolojiler
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-05998b?style=for-the-badge&logo=fastapi&logoColor=white)
+Ben Muhammed Ali Ezgin. Bilecik Şeyh Edebali Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Ağırlıklı olarak **Python** ekosistemini kullanarak yapay zeka, makine öğrenmesi ve veri bilimi odaklı projeler geliştiriyorum.
+### 🛠️ Teknolojiler ve Araçlar
+* **Diller:** Python, SQL
+* **Yapay Zeka & Veri:** TensorFlow, Keras, Scikit-Learn, Pandas, NumPy
+* **Geliştirme & Web:** Flask, FastAPI, Git, Docker
 
 ### 📊 GitHub İstatistiklerim
 ![Muhammed'in İstatistikleri](https://github-readme-stats.vercel.app/api?username=mali21ezgin&show_icons=true&theme=radical)
