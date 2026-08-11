@@ -7,4 +7,4 @@ Ben Muhammed Ali Ezgin. Bilecik Şeyh Edebali Üniversitesi Bilgisayar Mühendis
 * **Geliştirme & Web:** Flask, FastAPI, Git, Docker
 
 ### 📊 GitHub İstatistiklerim
-![Muhammed'in İstatistikleri](https://github-readme-stats.vercel.app/api?username=mali21ezgin&show_icons=true)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mali21ezgin&theme=radical)](https://github.com/mali21ezgin/mali21ezgin)
