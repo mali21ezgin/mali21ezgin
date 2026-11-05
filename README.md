@@ -4,3 +4,5 @@ Ben Muhammed Ali Ezgin. Bilecik Şeyh Edebali Üniversitesi Bilgisayar Mühendis
 * **Diller:** Python, SQL
 * **Yapay Zeka & Veri:** TensorFlow, Keras, Scikit-Learn, Pandas, NumPy
 * **Geliştirme & Araçlar:** Flask, FastAPI, Git, Docker
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=mali21ezgin&color=blue&style=flat)
