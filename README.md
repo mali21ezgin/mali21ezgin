@@ -2,6 +2,7 @@ Hi, I am Muhammed Ali Ezgin. I am a Computer Engineering graduate from Bilecik �
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Python
-- **AI & Data:** Scikit-Learn, PyTorch, Pandas, NumPy
+- **AI & Data:** Scikit-Learn, PyTorch, Pandas, NumPy, Gymnasium
+- **NLP & Data Engineering:** TF-IDF, Text Classification, Data Preprocessing
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=mali21ezgin&color=blue&style=flat)
